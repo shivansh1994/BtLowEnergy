@@ -1,10 +1,10 @@
-# BtLowEnergy
-Detecting BtLowEnergy Devices and connecting to it using Android Devices(any version)
+# BtLowEnergy ANDROID APP
+Detecting BtLowEnergy Devices and connecting to it using Android Devices(any version) through an Android App
 
 
 
 OBJECTIVE:
-This will scan the list of available bluetooth low energy devices.
+This ANDROID APPLICATION will scan the list of available bluetooth low energy devices.
 
 
 
