@@ -8,7 +8,7 @@ This will scan the list of available bluetooth low energy devices.
 
 
 
-TOOLS REQUIRED:
+TOOLS REQUIRED:\n
 1- ANDROID STUDIO(min 2.0)
 2- JAVA SDK
 3- BLUETOOTH LOW ENERGY DEVICE
