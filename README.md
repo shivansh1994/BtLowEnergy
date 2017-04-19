@@ -22,7 +22,7 @@ STEPS:
 3-There is a perticuler sequence of String in the code.
 4-The app will receive the sent data through the ble device and compare will stored String and in accordance to that a report file will be generated in the sd card storage.
 5-Users can also email the generated file through the application.
-6-The main purpose is to connect to ble device and receive data into the device for further application.
+6-The main purpose is to connect to ble device and receive data into the android device for further application.
 
 
 
